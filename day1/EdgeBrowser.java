@@ -10,3 +10,6 @@ public class EdgeBrowser {
 	}
 
 }
+output 
+Browser launched succesfully
+Application url loaded successfully

@@ -10,3 +10,6 @@ public class Bike {
 	}
 
 }
+output 
+Applied break
+sound horn

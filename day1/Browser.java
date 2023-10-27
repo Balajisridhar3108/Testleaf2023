@@ -19,6 +19,6 @@ public class Browser {
     	 Browser obj = new Browser() ;
     	 obj.launchBrowser("Chrome");
     	 obj.LoadUrl();
-    	 	 
+    	 	 // Take a look into EdgeBrowser
      }
 }

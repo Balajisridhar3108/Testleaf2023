@@ -15,3 +15,9 @@ public class Report {
 	}
 
 }
+output 
+Balaji
+123
+JPR
+88
+6.8
